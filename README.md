@@ -1,5 +1,5 @@
 # IBM-Data-Science-Pro-Assignment
 
-Solution for assignment 
+Solution of assignment, 
 Data Science Professional Certificate
 
