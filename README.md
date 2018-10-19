@@ -1,6 +1,7 @@
 # IBM Professional Data Science Certificate 
 
 My Task Assignment for IBM Professional Data Science Certificate 
+
 Note: GitHub doesn't work. To show map and image. You can watch my notebook in below link. 
 
 #### Data_Visualization with Python 
