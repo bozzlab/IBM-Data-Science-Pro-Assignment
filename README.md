@@ -2,7 +2,7 @@
 
 My Task Assignment, IBM Professional Data Science Certificate 
 
-Note: GitHub doesn't work to show the map and image. You can read my notebook by copy link of Github. 
+Note: GitHub doesn't work to show the map and image. You can read my notebook by copy link of GitHub file. 
 Then put the link in this website nbviewer.jupyter.org. It notebook viewer. Like the below link...
 
 https://nbviewer.jupyter.org/#yourlink 
