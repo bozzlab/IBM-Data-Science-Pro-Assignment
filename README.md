@@ -3,7 +3,9 @@
 • My Task Assignment, IBM Professional Data Science Certificate 
 
 • Note: GitHub doesn't work to show the map and image. You can read my notebook by copy link of GitHub file. 
-  Then put the link in this website nbviewer.jupyter.org. It notebook viewer. Like the below link...
+  Then put the link in this website nbviewer.jupyter.org. It notebook viewer. Like the below link...    
+  
+• <a href="https://www.coursera.org/account/accomplishments/specialization/GUFESUWT8KTM">See certificate</a>
 
 https://nbviewer.jupyter.org/#yourlink 
 
